@@ -12,7 +12,6 @@ function App() {
   function handleSelect(selectedButton) {
     // selectedButton => 'either of the 4 buttons
     setSelectedTopic(selectedButton)
-    // tabContent = selectedButton;
   }
   return (
     <div>
